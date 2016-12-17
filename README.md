@@ -26,4 +26,3 @@ iniciar o script
 ```sh
 $ sudo ./bhounds.py
 ```
-# finalizando o script...
