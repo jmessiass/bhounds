@@ -26,3 +26,13 @@ iniciar o script
 ```sh
 $ sudo ./bhounds.py
 ```
+
+Escolha a interface
+
+```sh
+1. eth0
+2. wlan0
+```
+
+- Entre com o gateway e o ip do alvo capturados logo acima
+- Se tudo estiver correto, o sniffing ir iniciar
