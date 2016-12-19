@@ -35,4 +35,4 @@ Escolha a interface
 ```
 
 - Entre com o gateway e o ip do alvo capturados logo acima
-- Se tudo estiver correto, o sniffing ir iniciar
+- Se tudo estiver correto, o sniffing irá iniciar
