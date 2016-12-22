@@ -1,6 +1,6 @@
 # BHoundS
 
-BHoundS é um script de sniffing que automatiza o processo do arpspoof. 
+BHoundS é um script de monitoramento de tráfego de rede. 
 
 Para utiliza-lo é necessário ter o arpspoof instalado na sua distribuição Linux e estar na mesma interace de rede do alvo.
 
