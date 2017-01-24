@@ -77,7 +77,7 @@ while not checar_alvo:
         checar_alvo = 1 ## define 1 para validar o input
         print(42 * '-')
 
-# habilita roteamento de pacotes
+# habilita o encaminhamento de pacotes entre as máquinas da rede
 ip_forward = os.system('echo 1 > /proc/sys/net/ipv4/ip_forward')
 
 if ip_forward == 0:
