@@ -2,7 +2,7 @@
 
 BHoundS é um script de monitoramento de tráfego de rede. 
 
-Para utiliza-lo é necessário estar conectado a uma rede através de um adaptador wireless específico para esse tipo de interceptação,  preciso tambm ter o arpspoof instalado na sua distribuição Linux e estar na mesma interace de rede do alvo.
+Para utiliza-lo é necessário estar conectado a uma rede através de um adaptador wireless específico para esse tipo de monitoramento. É preciso também ter o arpspoof instalado na sua distribuição Linux e estar na mesma interace de rede do alvo.
 
 Script testado no Kali, onde já tem todos os programas necessários instalado.
 
